@@ -5,12 +5,13 @@
 
 <!-- Cool Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=4000&color=00FFFF&center=true&vCenter=true&width=550&lines=Competitive+Programmer;CSE+Student;Problem+Solver;Loves+to+Code+Everyday;Dreaming+to+be+a+Red+Coder+🔥" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF0033&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Problem+Solver;Loves+to+Code+Everyday;Dreaming+to+be+a+Red+Coder+🔥">
 </p>
+
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGo2ZHl4cmF6dDloZGZqNXBiNHV3azBkOW5wZGZrZHBnYXV2NWpxciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding" width="500"/>
 </p>
 
 ---
