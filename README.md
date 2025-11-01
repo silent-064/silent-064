@@ -1,32 +1,37 @@
-<!---- 👋 Hi from Protic Prappo Durjoy -->
+<!-- 👋 Hi from Protic Prappo Durjoy -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hi+👋,+I%27m+Protic+Prappo+Durjoy!;Competitive+Programmer+%7C+Problem+Solver;Loves+to+Code+%26+Compete" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Protic+Prappo+Durjoy!;Competitive+Programmer+%7C+Problem+Solver;Loves+to+Code+%26+Compete" alt="Typing Animation" />
 </h1>
 
-<h3 align="center">A passionate Competitive Programmer & CSE student</h3>
+<h3 align="center">A passionate Competitive Programmer & CSE student from Bangladesh</h3>
 
-<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
 ### 🧠 About Me
-- 🎯 I’m a **Competitive Programmer** who thrives on solving algorithmic problems and building logic muscle every day.  
-- 💻 Solved **500+ problems on Codeforces**, and nearly **1000 problems overall** across multiple platforms.  
-- 🌱 Currently focused on **Data Structures, Algorithms & Problem-Solving**.  
-- 💬 Ask me about **C++, Python, JavaScript and CP-related topics**.  
+- 🎯 I’m a **Competitive Programmer** passionate about solving algorithmic problems and building logical thinking every day.  
+- 💻 Solved **500+ problems on Codeforces**, and **1000+ problems overall** across multiple platforms.  
+- 🌱 Currently focusing on **Data Structures, Algorithms, and Problem Solving**.  
+- 💬 Ask me about **C++, Python, JavaScript, and CP-related concepts**.  
 - 📧 Reach me at **[prappoprotic@gmail.com](mailto:prappoprotic@gmail.com)**  
 
 ---
 
 ### 🔗 Competitive Programming Profiles
 <p align="center">
+
+  <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/silent-064" target="_blank">
-    ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent-064)
+    <img src="https://img.shields.io/badge/Codeforces-1157-%230066CC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
   </a>
+
+  <!-- CodeChef Card -->
   <a href="https://www.codechef.com/users/silent_064" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-2★-%238B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
+
 </p>
 
 ---
@@ -59,7 +64,7 @@
 
 ### ⚡ Quote to Remember
 > **“In competitive programming, every wrong answer teaches you something right.”**  
-> — Protic Prappo Durjoy 💪
+> — Protic Prappo Durjoy 💪  
 
 ---
 
