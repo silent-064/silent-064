@@ -19,7 +19,7 @@
 > "Code. Compete. Conquer. — I don't just solve problems, I destroy them ⚡"
 
 - 🧑‍💻 I'm **Protic Prappo Durjoy**, a passionate **Competitive Programmer** from Bangladesh  
-- 🥈 Codeforces Rating: **1157 → 11578 (close to Pupil)**  
+- 🥈 Codeforces Rating: **1157 → 1200 (close to Pupil)**  
 - ⭐ CodeChef: **2★ (silent_064)**  
 - 💪 Solved **1000+ problems** across platforms (Codeforces, CodeChef, LeetCode, AtCoder etc.)  
 - 🎯 Always grinding to improve in algorithms, logic & optimization  
@@ -55,7 +55,16 @@
 </p>
 
 ---
+### 🎯 Total Problem Solved  
+| Platform | Problems |
+|---------|---------|
+| Codeforces | ~500+ |
+| CodeChef | ~200+ |
+| LeetCode | ~100+ |
+| Other Judges | ~100+ |
+| **Total** | **~900+** 🚀 |
 
+---
 ### 💻 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silent-064&show_icons=true&theme=radical" />
