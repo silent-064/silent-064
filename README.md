@@ -1,88 +1,76 @@
-<!-- 👋 Hi from Protic Prappo Durjoy -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Protic+Prappo+Durjoy!;Competitive+Programmer+%7C+Problem+Solver;Loves+to+Code+%26+Compete" alt="Typing Animation" />
-</h1>
-
-<h3 align="center">A passionate Competitive Programmer & CSE student from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Protic Prappo Durjoy</h1>
+<h3 align="center">🚀 Passionate Competitive Programmer & Web Developer</h3>
 
 ---
 
-## 🧠 About Me  
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 🧑‍💻 About Me  
+<img align="right" src="https://cdn.dribbble.com/users/116207...coding.gif" width="280">
 
-🚀 **Name:** Protic Prappo Durjoy *(silent-064)*  
-🔥 **Competitive Programmer & Problem Solver**  
-💡 **1k+ problems solved** across all platforms  
-🏆 **500+ Codeforces problems**, close to **Pupil** rank  
-💻 **Languages:** C++, Python, JS  
-🎯 Focus: **Algorithms**, **DSA**, **CP**, **Optimization**  
-📫 Email: **prappoprotic@gmail.com**
+- 🔥 Competitive Programmer  
+- 👨‍🎓 CSE Student | Learning DSA + Web Dev  
+- 🧠 Solved **900+ Problems** across CP platforms  
+- 🎯 Aim: **Expert on Codeforces** & **Top-rated on CodeChef**  
+- 🌱 Currently mastering **DSA, CP & MERN stack**  
+- 💬 Ask me about **C++ | STL | DSA | CP | Web Dev**  
+- 📫 Reach me: **protichere@gmail.com**  
 
-> *"Every Accepted makes me stronger — every Wrong Answer teaches me how to win."* ⚔️
+<br clear="right"/>
 
 ---
 
-## 🏆 Competitive Programming Profiles  
+## 📊 Competitive Programming Journey  
+
+### 🛡️ Codeforces Stats  
+[![Codeforces Profile](https://cp-logo.vercel.app/codeforces/ProticPrappo)](https://codeforces.com/profile/ProticPrappo)  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ProticPrappo)  
+
+---
+
+### 🍁 CodeChef Stats  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5★-brown)](https://www.codechef.com/users/proticprappo)  
+![CodeChef Stats](https://codechef-api.vercel.app/api/handle/proticprappo)  
+
+---
+
+### 🎯 Total Problem Solved  
+| Platform | Problems |
+|---------|---------|
+| Codeforces | ~500+ |
+| CodeChef | ~200+ |
+| LeetCode | ~100+ |
+| Other Judges | ~100+ |
+| **Total** | **~900+** 🚀 |
+
+---
+
+## ⚒️ Tech Stack  
+**Languages:** C++, JavaScript  
+**CP Tools:** STL, Graph, DP, Number Theory  
+**Web Dev:** React, Node.js, Express, MongoDB  
+**Other:** Git, Linux, VS Code  
+
+---
+
+## 🏆 GitHub Stats  
+
 <p align="center">
-
-<a href="https://codeforces.com/profile/silent-064" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1157-%230066CC?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/silent_064" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-2★-%238B4513?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ProticPrappo&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProticPrappo&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📈 Codeforces Stats  
+## 🌟 GitHub Contribution Graph Animation  
+
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent-064&theme=tokyonight&border_color=00FFFF" height="200" alt="CF Stats"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,git,vscode,linux" />
-</p>
-
----
-
-## 💻 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silent-064&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=silent-064&theme=tokyonight"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-064&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌈 GitHub Contribution Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silent-064&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/durjoy-roy-648a4a352" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/durjoy.roy.3150/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silent-064&label=Profile+Views&color=00FFC6&style=flat-square"/>
+## 📎 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/proticprappo/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://codeforces.com/profile/ProticPrappo"><img src="https://skillicons.dev/icons?i=cpp"/></a>
+<a href="mailto:protichere@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
