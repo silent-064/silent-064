@@ -1,21 +1,29 @@
-<!-- 👋 Hi from Protic Prappo Durjoy -->
+<!-- 💫 Protic Prappo Durjoy | Silent-064 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Protic+Prappo+Durjoy!;Competitive+Programmer+%7C+Problem+Solver;Loves+to+Code+%26+Compete" alt="Typing Animation" />
-</h1>
+<h1 align="center">Hi 👋, I'm Protic Prappo Durjoy</h1>
+<h3 align="center">A Passionate Competitive Programmer & CSE Student</h3>
 
-<h3 align="center">A passionate Competitive Programmer</h3> 
+<!-- Cool Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=4000&color=00FFFF&center=true&vCenter=true&width=550&lines=Competitive+Programmer;CSE+Student;Problem+Solver;Loves+to+Code+Everyday;Dreaming+to+be+a+Red+Coder+🔥" alt="Typing SVG" />
+</p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="500"/>
+</p>
 
 ---
 
-### 🧠 About Me
-- 🎯 I’m a **Competitive Programmer** passionate about solving algorithmic problems and building logical thinking every day.  
-- 💻 Solved **500+ problems on Codeforces**, and **1000+ problems overall** across multiple platforms.  
-- 🌱 Currently focusing on **Data Structures, Algorithms, and Problem Solving**.  
-- 💬 Ask me about **C++, Python, JavaScript, and CP-related concepts**.  
-- 📧 Reach me at **[prappoprotic@gmail.com](mailto:prappoprotic@gmail.com)**  
+### 🚀 About Me
+> "Code. Compete. Conquer. — I don't just solve problems, I destroy them ⚡"
+
+- 🧑‍💻 I'm **Protic Prappo Durjoy**, a passionate **Competitive Programmer** from Bangladesh  
+- 🥈 Codeforces Rating: **1157 → 11578 (close to Pupil)**  
+- ⭐ CodeChef: **2★ (silent_064)**  
+- 💪 Solved **1000+ problems** across platforms (Codeforces, CodeChef, LeetCode, AtCoder etc.)  
+- 🎯 Always grinding to improve in algorithms, logic & optimization  
+- ✉️ Reach me at: **prappoprotic@gmail.com**
 
 ---
 
@@ -72,6 +80,13 @@
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🩶 Contributions & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silent-064&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
