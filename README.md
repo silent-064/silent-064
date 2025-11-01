@@ -42,9 +42,9 @@
 
 ---
 
-### 📈 Codeforces Stats
+## 📈 Codeforces Stats  
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent-064&theme=dark&border_color=00FFFF" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent-064&theme=tokyonight&border_color=00FFFF" height="200" alt="CF Stats"/>
 </p>
 
 ---
