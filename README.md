@@ -59,14 +59,19 @@
 
 ---
 
-### 🌈 GitHub Contribution Graph
+## 🏆 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silent-064&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=ProticPrappo&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProticPrappo&theme=tokyonight" height="160"/>
 </p>
 
-### 🐍 Contribution Snake Animation
+---
+
+## 🌟 GitHub Contribution Graph Animation  
+
 <p align="center">
-  <img src="https://github.com/silent-064/silent-064/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
