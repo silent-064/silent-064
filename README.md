@@ -1,7 +1,7 @@
 <!-- 💫 Protic Prappo Durjoy | Silent-064 -->
 
 <h1 align="center">Hi 👋, I'm Protic Prappo Durjoy</h1>
-<h3 align="center">A Passionate Competitive Programmer & CSE Student</h3>
+<h3 align="center">A Passionate Competitive Programmer</h3>
 
 <!-- Cool Typing Animation -->
 <p align="center">
@@ -100,7 +100,6 @@
 
 
 ---
-
 ### ⚡ Quote to Remember
 > **“In competitive programming, every wrong answer teaches you something right.”**  
 > — Protic Prappo Durjoy 💪  
