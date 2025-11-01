@@ -19,19 +19,28 @@
 
 ---
 
-### 🔗 Competitive Programming Profiles
+### 🏆 Competitive Programming Profiles
 <p align="center">
 
-  <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/silent-064" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1157-%230066CC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
   </a>
 
-  <!-- CodeChef Card -->
   <a href="https://www.codechef.com/users/silent_064" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-2★-%238B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
 
+</p>
+
+---
+
+### 📈 Codeforces Stats
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent-064&theme=dark&border_color=00FFFF" alt="Codeforces Stats" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/rating-graph?username=silent-064&theme=tokyonight" alt="Codeforces Rating Graph" />
 </p>
 
 ---
@@ -43,13 +52,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silent-064&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=silent-064&theme=radical" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-064&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silent-064&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
